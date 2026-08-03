@@ -6,7 +6,7 @@ A feature-rich, interactive 3D Tetris game built in Python using **PyOpenGL**, *
 
 ## 📸 Screenshots
 
-| Gameplay View | Hold & Next Preview |
+| Gameplay View | GameOver Preview |
 | :---: | :---: |
 | ![Gameplay Screenshot](docs/screenshot1.png) | ![Preview HUD](docs/screenshot2.png) |
 
